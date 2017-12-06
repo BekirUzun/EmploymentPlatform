@@ -6,6 +6,11 @@ As its name implies main idea of this project is finding job. You can find a job
 
 This project uses [Flat-UI](https://github.com/saneki/FlatUI) (MIT Licensed) for styling purposes. Thanks to [saneki](https://github.com/saneki) for porting it to C#.
 
+## Screenshots
+<img src="https://raw.githubusercontent.com/BekirUzun/EmploymentPlatform/master/screenshots/main.png" alt="Main Screen" width="300">
+<img src="https://raw.githubusercontent.com/BekirUzun/EmploymentPlatform/master/screenshots/findemployee.png" alt="Find Employee" width="300">
+<img src="https://raw.githubusercontent.com/BekirUzun/EmploymentPlatform/master/screenshots/findjob.png" alt="Find Job" width="300">
+
 License
 ---
 [GPL-3.0](https://github.com/BekirUzun/EmploymentPlatform/blob/master/LICENSE)
